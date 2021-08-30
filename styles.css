@@ -1,0 +1,41 @@
+body {
+  text-align: side;
+  background-color: #126E82;
+}
+
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  margin:  10%;
+  color: #FEF2BF;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+
+}
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 5px solid black;
+  border-radius: 20%;
+}
+.Fim de jogo {
+  background-color: pink;
+  opacity: 0.8;
+}.pink {
+  background-color: pink;
+}.green {
+  background-color: green;
+}.Violet {
+  background-color: Violet;
+}.yellow {
+  background-color: yellow;
+}.pressed {
+  box-shadow: 0 0 20px Gold;
+  background-color: grey;
+}
